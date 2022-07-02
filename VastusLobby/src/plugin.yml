@@ -1,0 +1,6 @@
+name: VastusLobby
+version: 1.0
+author: yMatheus_
+main: dev.vastusmc.lobby.Main
+commands:
+  fly:

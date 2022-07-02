@@ -1,0 +1,27 @@
+name: VastusEssentials
+version: 1.0
+author: yMatheus_
+main: dev.vastusmc.essentials.Main
+commands:
+  gamemode:
+  tp:
+  tpa:
+  tpaccept:
+  tphere:
+  clear:
+  vanish:
+  invsee:
+  god:
+  jail:
+  unjail:
+  craft:
+  enderchest:
+  set:
+  reiniciar:
+  kill:
+  spawn:
+  head:
+  fly:
+  limparchat:
+  luz:
+  ping:

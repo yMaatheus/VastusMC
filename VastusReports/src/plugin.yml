@@ -1,0 +1,7 @@
+name: VastusReports
+version: 1.0
+main: dev.vastusmc.reports.Main
+commands:
+  report:
+  silent:
+  reports:

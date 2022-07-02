@@ -1,0 +1,7 @@
+name: VastusRankup
+version: 1.0
+author: yMatheus_
+main: dev.vastusmc.rankup.Main
+commands:
+  rankup:
+  resetrank:

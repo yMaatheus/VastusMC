@@ -1,0 +1,6 @@
+name: VastusReparador
+version: 1.0
+author: yMatheus_
+main: dev.vastusmc.reparador.Main
+commands:
+  setreparador:

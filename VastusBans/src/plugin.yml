@@ -1,0 +1,9 @@
+name: VastusBans
+version: 1.0
+author: yMatheus_
+main: dev.vastusmc.bans.Main
+commands:
+  ban:
+  unban:
+  checkban:
+  kick:

@@ -1,0 +1,6 @@
+name: VastusKits
+version: 1.0
+author: yMatheus_
+main: dev.vastusmc.kits.Main
+commands:
+  kit:

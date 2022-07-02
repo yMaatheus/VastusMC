@@ -1,0 +1,8 @@
+name: VastusBungee
+version: 1.0
+main: dev.vastusmc.bungee.Main
+commands:
+  discord:
+  lobby:
+  site:
+  twitter:

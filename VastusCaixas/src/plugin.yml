@@ -1,0 +1,6 @@
+name: VastusCaixas
+version: 1.0
+author: yMatheus_
+main: dev.vastusmc.caixas.Main
+commands:
+  caixamisteriosa:

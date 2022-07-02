@@ -1,0 +1,7 @@
+name: VastusMaquinas
+version: 1.0
+author: yMatheus_
+main: dev.vastusmc.maquinas.Main
+commands:
+  maquina:
+  combustivel:
